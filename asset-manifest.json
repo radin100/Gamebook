@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Gamebook/static/css/main.c6aea74a.css",
-    "main.js": "/Gamebook/static/js/main.c9e33f00.js",
+    "main.js": "/Gamebook/static/js/main.f2228c09.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Gamebook/static/js/787.c4e7f8f9.chunk.js",
     "static/media/logo.png": "/Gamebook/static/media/logo.045f5e40c4a184add292.png",
     "index.html": "/Gamebook/index.html",
     "main.c6aea74a.css.map": "/Gamebook/static/css/main.c6aea74a.css.map",
-    "main.c9e33f00.js.map": "/Gamebook/static/js/main.c9e33f00.js.map",
+    "main.f2228c09.js.map": "/Gamebook/static/js/main.f2228c09.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Gamebook/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6aea74a.css",
-    "static/js/main.c9e33f00.js"
+    "static/js/main.f2228c09.js"
   ]
 }
