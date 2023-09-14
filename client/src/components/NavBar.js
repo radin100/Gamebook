@@ -9,7 +9,7 @@ const NavBar = ({ user, setUser }) => {
         <nav className="navbar sticky-top bg-body-tertiary">
             <div className="container-fluid">
                 <div className='position-relative nav justify-content-start'>
-                    <Link className="navbar-brand" to="/">
+                    <Link className="navbar-brand" to="/Gamebook/">
                         <img src={ logo } alt="Logo" width="30" height="24" className="d-inline-block align-text-top" />
                         Gamebook
                     </Link>

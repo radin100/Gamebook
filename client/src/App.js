@@ -38,7 +38,7 @@ function App() {
         : <></> }
         
         <Routes>
-          <Route path='/' element={ <Home /> }/>
+          <Route path='/Gamebook/' element={ <Home /> }/>
           <Route path='/catalogue' element={ <Catalogue setErr={ setErr } /> }/>
           <Route path='/profile/:username' element={ <Profile user={ user } setErr={ setErr } /> }/>
           <Route path='/create' element={ <Add user={ user } setErr={ setErr } /> }/>
